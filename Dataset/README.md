@@ -4,7 +4,7 @@ The repository does not track the raw dataset files. Place the local data under 
 
 ## Topic C sources
 
-The course topic sheet [Topic_C-1.pdf](/Users/abdoubarro/UNI/AdvancedMachineLearning/Project/Topic_C-1.pdf) points to these public dataset sources:
+The course topic sheet points to these public dataset sources:
 
 - [Kaggle: Sarcasm Dataset](https://www.kaggle.com/datasets/danofer/sarcasm)
 - [Kaggle: Tweets With Sarcasm And Irony](https://www.kaggle.com/datasets/nikhiljohnk/tweets-with-sarcasm-and-irony)

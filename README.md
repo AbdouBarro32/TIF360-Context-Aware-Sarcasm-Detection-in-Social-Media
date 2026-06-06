@@ -34,11 +34,11 @@ Optional Reddit files:
 - `Dataset/Reddit/test-balanced.csv`
 - `Dataset/Reddit/test-unbalanced.csv`
 
-Additional details are listed in [Dataset/README.md](/Users/abdoubarro/UNI/AdvancedMachineLearning/Project/TIF360---Context-Aware-Sarcasm-Detection-in-Social-Media/Dataset/README.md).
+Additional details are listed in [Dataset/README.md](Dataset/README.md).
 
 ## Dataset sources
 
-The project topic sheet [Topic_C-1.pdf](/Users/abdoubarro/UNI/AdvancedMachineLearning/Project/Topic_C-1.pdf) lists the following public sarcasm-dataset sources:
+The project topic sheet lists the following public sarcasm-dataset sources:
 
 - [Kaggle: Sarcasm Dataset](https://www.kaggle.com/datasets/danofer/sarcasm)
 - [Kaggle: Tweets With Sarcasm And Irony](https://www.kaggle.com/datasets/nikhiljohnk/tweets-with-sarcasm-and-irony)
